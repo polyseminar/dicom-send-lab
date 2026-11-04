@@ -4,6 +4,8 @@ Send a CT study to a PACS the way a scanner does, on your own computer, for lear
 
 This lab goes with the Polyseminar video "Send DICOM images like a CT scanner". It is the second lab in the series; the first is [`pacs-lab`](https://github.com/polyseminar/pacs-lab). This one stands alone, so you don't need the first one.
 
+The [lab page](https://polyseminar.com/labs/send-dicom-to-a-pacs) on polyseminar.com has the video, its chapters, and the main commands.
+
 > **Lab use only.** Load only the public test data named below. Never load real patient data, including your own scans, and never point these tools at a hospital system without permission.
 
 ## What you need
